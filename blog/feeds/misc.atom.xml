@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CMSimfly 網際內容管理 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-03T18:25:21+08:00</updated><entry><title>w10</title><link href="./w10_block_ui.html" rel="alternate"></link><published>2022-05-03T18:20:00+08:00</published><updated>2022-05-03T18:25:21+08:00</updated><author><name>40923142</name></author><id>tag:None,2022-05-03:./w10_block_ui.html</id><summary type="html">&lt;p&gt;w10wink&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CMSimfly 網際內容管理 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-03T18:39:12+08:00</updated><entry><title>w10</title><link href="./w10_block_ui.html" rel="alternate"></link><published>2022-05-03T18:20:00+08:00</published><updated>2022-05-03T18:39:12+08:00</updated><author><name>40923142</name></author><id>tag:None,2022-05-03:./w10_block_ui.html</id><summary type="html">&lt;p&gt;w10wink&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;w10wink&lt;/p&gt;
 
+
+&lt;hr&gt;
 &lt;p&gt;&lt;link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css"&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -26,7 +28,7 @@ var winkVideoData5 = {
 &lt;/div&gt;
 &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;--------------------------&lt;/p&gt;
+
 &lt;p&gt;&lt;link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css"&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -51,7 +53,7 @@ var winkVideoData6 = {
 &lt;/div&gt;
 &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;--------------------------&lt;/p&gt;
+
 &lt;p&gt;&lt;link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css"&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -76,7 +78,6 @@ var winkVideoData7 = {
 &lt;/div&gt;
 &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;--------------------------&lt;/p&gt;
 
 &lt;h2&gt;Flutter&lt;/h2&gt;
 &lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="w10_block_ui"></category></entry><entry><title>w8 midterm</title><link href="./midterm.html" rel="alternate"></link><published>2022-04-17T10:30:00+08:00</published><updated>2022-04-17T12:01:24+08:00</updated><author><name>40923142</name></author><id>tag:None,2022-04-17:./midterm.html</id><summary type="html">&lt;p&gt;w8呈現網站內容&lt;/p&gt;
